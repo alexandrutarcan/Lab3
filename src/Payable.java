@@ -1,3 +1,6 @@
+/**
+ * used to tax something
+ */
 public interface Payable {
-    double getTicketPrice();
+   abstract public double getTicketPrice();
 }
